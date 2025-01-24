@@ -6,12 +6,12 @@
           "moved": 0,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+          "description": "This is a Test"
         }
       ],
       "key": "javascript",
       "id": "javascript",
-      "title": "CISJavaScript",
+      "title": "JavaScript",
       "quadrant": "languages",
       "links": [
         {
